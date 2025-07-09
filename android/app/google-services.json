@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693054823449",
+    "project_id": "ayam-petelur-web",
+    "storage_bucket": "ayam-petelur-web.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693054823449:android:935501ec9479f978705e88",
+        "android_client_info": {
+          "package_name": "com.example.ayam_petelur_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVP8uu9b2VL4C1sY_CJ4bnTrIELHRzljQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
